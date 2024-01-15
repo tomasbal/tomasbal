@@ -1,6 +1,12 @@
 Hey there 👋
 
-I’m Tomislav, creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites for nationwide and global companies.
+As an experienced Solutions Architect and Software Engineer, I have a proven track record of designing and implementing high-impact solutions for companies on a global scale. My expertise lies in leveraging AWS and Azure cloud technologies to optimize the performance of user-centric applications, driving competitive advantage and revenue growth.
+
+My technical proficiency extends beyond cloud solutions; I have a robust understanding of software and architecture design, system design, and networking. These skills enable me to deliver dynamic, scalable, and secure solutions. I also have a strong background in cybersecurity, ensuring the solutions I build are not only effective but also safeguarded against potential threats.
+
+In addition to my technical skills, my analytical and problem-solving abilities allow me to navigate complex project requirements and deliver on ambitious business objectives.
+
+Beyond my professional work, my enthusiasm for software development, cloud technologies, and IT security is evident. I am passionate about sharing my knowledge and have developed a reputation as a thought leader in these fields. I firmly believe in the power of continuous learning and collaboration to drive innovation and excellence in the tech industry.
 
 Want to know more about me? [Check out my portfolio.](https://tomislavbalabanov.me/)
 
