@@ -24,6 +24,14 @@ Want to know more about me? [Check out my portfolio.](https://tomislavbalabanov.
 
 <br>
 
+<a href="https://github.com/tomasbal/1password-dot-env-sync">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tomasbal&repo=1password-dot-env-sync&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<br>
+
 <a href="https://github.com/tomasbal/personal-website">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tomasbal&repo=personal-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
