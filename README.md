@@ -20,53 +20,6 @@ Want to know more about me? [Check out my portfolio.](https://tomislavbalabanov.
 <br>
 <br>
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/tomasbal/1password-dot-env-sync">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tomasbal&repo=1password-dot-env-sync&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<br>
-
-<a href="https://github.com/tomasbal/personal-website">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tomasbal&repo=personal-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/tomasbal/wp-all-import-resize-images-on-upload">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tomasbal&repo=wp-all-import-resize-images-on-upload&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/tomasbal/macedonian-permalinks-WP">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tomasbal&repo=macedonian-permalinks-WP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/tomasbal">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbal&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/tomasbal">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tomasbal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
 
 ## 💼 Skills
 
